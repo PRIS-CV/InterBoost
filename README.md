@@ -1,7 +1,7 @@
 # Deep InterBoost Networks for Small-sample Image Classification
 
 Code release for Deep InterBoost Networks for Small-sample Image Classification (NEUROCOMPUTING 2020)
-[DOI]()
+[DOI](https://doi.org/10.1016/j.neucom.2020.06.135)
 
 
 
